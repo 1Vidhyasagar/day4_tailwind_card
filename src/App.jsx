@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div class="flex flex-col items-center justify-center content-evenly w-screen h-screen; p-20">
+      <div class="flex flex-col items-center justify-center content-evenly w-screen h-screen; p-20 max-w-sm  mx-auto ">
         <h1>Hello React</h1>
         <Card
           name="Vidhyasagar"
